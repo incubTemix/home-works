@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home-works/static/css/main.93a0497a.css",
-    "main.js": "/home-works/static/js/main.4beb548a.js",
+    "main.js": "/home-works/static/js/main.ec04a856.js",
     "static/js/787.25eaef86.chunk.js": "/home-works/static/js/787.25eaef86.chunk.js",
     "static/media/OsnFoto.webp": "/home-works/static/media/OsnFoto.08290ac26c7737d6b144.webp",
     "static/media/sprite.svg": "/home-works/static/media/sprite.6767c30bf80d13756fcb8c1c3ad442a5.svg",
@@ -9,11 +9,11 @@
     "static/media/KahootBanner_1.webp": "/home-works/static/media/KahootBanner_1.42a83fbafb55bf8c1785.webp",
     "index.html": "/home-works/index.html",
     "main.93a0497a.css.map": "/home-works/static/css/main.93a0497a.css.map",
-    "main.4beb548a.js.map": "/home-works/static/js/main.4beb548a.js.map",
+    "main.ec04a856.js.map": "/home-works/static/js/main.ec04a856.js.map",
     "787.25eaef86.chunk.js.map": "/home-works/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93a0497a.css",
-    "static/js/main.4beb548a.js"
+    "static/js/main.ec04a856.js"
   ]
 }
