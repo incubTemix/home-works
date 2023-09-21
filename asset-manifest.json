@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/home-works/static/css/main.93a0497a.css",
-    "main.js": "/home-works/static/js/main.f44874fc.js",
-    "static/js/787.25eaef86.chunk.js": "/home-works/static/js/787.25eaef86.chunk.js",
-    "static/media/OsnFoto.webp": "/home-works/static/media/OsnFoto.08290ac26c7737d6b144.webp",
-    "static/media/sprite.svg": "/home-works/static/media/sprite.6767c30bf80d13756fcb8c1c3ad442a5.svg",
-    "static/media/ProtectXBanner_1.webp": "/home-works/static/media/ProtectXBanner_1.90e47580c01b33213713.webp",
-    "static/media/KahootBanner_1.webp": "/home-works/static/media/KahootBanner_1.42a83fbafb55bf8c1785.webp",
+    "main.css": "/home-works/static/css/main.073c9b0a.css",
+    "main.js": "/home-works/static/js/main.787b0782.js",
+    "static/js/787.177e23c2.chunk.js": "/home-works/static/js/787.177e23c2.chunk.js",
     "index.html": "/home-works/index.html",
-    "main.93a0497a.css.map": "/home-works/static/css/main.93a0497a.css.map",
-    "main.f44874fc.js.map": "/home-works/static/js/main.f44874fc.js.map",
-    "787.25eaef86.chunk.js.map": "/home-works/static/js/787.25eaef86.chunk.js.map"
+    "main.073c9b0a.css.map": "/home-works/static/css/main.073c9b0a.css.map",
+    "main.787b0782.js.map": "/home-works/static/js/main.787b0782.js.map",
+    "787.177e23c2.chunk.js.map": "/home-works/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93a0497a.css",
-    "static/js/main.f44874fc.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.787b0782.js"
   ]
 }
